@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">    
+    <title>Capile - Who Am I</title>
+    <h1 style="text-align: center; font-size: 50px;">Who Am I?</h1>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+    <body style="background-color: #b5e2ff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    <div class="abtme" style="width: 80%; margin: 20px auto; font-size: 25px;">
+        <h3 style="font-size: 30px;">About Me</h3>
+        <p>Hi, I'm Nicolle Capile, 23 years old, from Novaliches, Quezon City and I'm a 3rd year IT student of Colegio de Sta. Teresa de Avila and I was born on September 20, 2001.</p>
+        <p>I have a diverse range of hobbies that reflect my love for exploration and creativity. One of my favorite pastimes is immersing myself in the worlds of fiction through reading books. I find solace and excitement in the pages of fiction novels, where I can escape into different realities and perspectives.</p> 
+        <p>Additionally, I'm an avid fan of Korean dramas (kdramas) and anime. I enjoy the storytelling, character development, and visual artistry in both mediums. They offer a unique blend of entertainment and cultural insight that captivates me every time I watch.</p>
+        <p>Beyond consuming content, I also love to challenge myself by exploring activities I once thought were beyond my abilities. For instance, I've recently delved into painting. It's been a fulfilling journey of self-discovery and expression, pushing me to embrace creativity in new ways.</p>
+        <p>Overall, my hobbies are not just pastimes but avenues for growth, exploration, and enjoyment. They allow me to constantly learn, discover, and expand my horizons.</p>
+    </div>
+    <br>
+
+    <div style="display: flex; justify-content: space-between; width: 80%; margin: 20px auto;">
+        <!-- Left side: My Background -->
+        <div style="width: 48%; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+            <section style="margin-bottom: 20px;">
+                <h2 style="color: #333; font-size: 30px;">My Background</h2>
+                <br>
+    
+                <h3 style="font-size: 25px; color: #333;">Educational Attainment</h3>
+                <ul style="list-style-type: none; padding-left: 0;">
+                    <li style="margin-bottom: 15px; font-size: 20px;">
+                        <strong>Elementary:</strong> Dona Rosario Elementary School (2008-2016)
+                        <br> Panday Pira Street, Novaliches, Quezon City.
+                        <ul style="list-style-type: none; padding-left: 20px;">
+                            <li>Auditor of Supreme Student Government</li>
+                            <li>Grade 1 - 6 with Honors</li>
+                        </ul>
+                    </li>
+                    <li style="margin-bottom: 15px; font-size: 20px;">
+                        <strong>Junior High School:</strong> Metro Manila College (2016-2020)
+                        <br> Jordan Plains Subd., U-Site, Brgy. Kaligayahan, Novaliches, Quezon City.
+                        <ul style="list-style-type: none; padding-left: 20px;">
+                            <li>Grade 7 - 10 with Honors</li>
+                            <li>Secretary of Supreme Student Council</li>
+                        </ul>
+                    </li>
+                    <li style="margin-bottom: 15px; font-size: 20px;">
+                        <strong>Senior High School:</strong> Our Lady of Fatima University (2020-2022)
+                        <br> 1 Esperanza Street, Hilltop Mansion Heights, Lagro, Quezon City.
+                        <ul style="list-style-type: none; padding-left: 20px;">
+                            <li>Grade 11 - 12 with Honors</li>
+                        </ul>
+                    </li>
+                    <li style="margin-bottom: 15px; font-size: 20px;">
+                        <strong>College:</strong> Colegio de Sta. Teresa de Avila (2022-Present)
+                        <br> 177 Quirino Highway, Brgy. Kaligayahan, Novaliches, Quezon City.
+                        <ul style="list-style-type: none; padding-left: 20px;">
+                            <li>1st year Dean's Lister</li>
+                            <li>2nd year Dean's Lister</li>
+                        </ul>
+                    </li>
+                </ul>
+                <br>
+    
+                <h3 style="font-size: 25px; color: #333;">Work Experience</h3>
+                <ul style="list-style-type: none; padding-left: 0;">
+                    <li style="margin-bottom: 15px; font-size: 20px;">
+                        <strong>Office Staff:</strong> Rapid Concretech Builders Corporation (2021-2023)
+                        <br> 10 Pedro Street, TS Cruz Subd., San Agustin, Novaliches, Quezon City.
+                    </li>
+                </ul>
+                <br>
+    
+                <h3 style="font-size: 25px; color: #333;">Certifications</h3>
+                <ul style="list-style-type: none; padding-left: 0; font-size: 20px">
+                    <li style="margin-bottom: 15px;">Leadership Training, Grace Christian College (2016)</li>
+                    <li style="margin-bottom: 15px;">Team Building of SSC, Metro Manila College (2020)</li>
+                    <li style="margin-bottom: 15px;">Building Cyber Resilience, Colegio de Sta. Teresa de Avila (2024)</li>
+                </ul>
+            </section>
+        </div>
+    
+        <!-- Right side: Favorites and Hobbies -->
+        <div style="width: 48%; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+            <section style="margin-bottom: 20px;">
+                <h2 style="color: #333; font-size: 30px">Favorites and Hobbies</h2>
+                <br>
+                
+                <div style="display: flex; justify-content: space-between;">
+
+                    <div style="width: 48%;">
+                        <h3 style="font-size: 25px; color: #333;">Foods</h3>
+                        <ul style="list-style-type: none; padding-left: 20; font-size: 20px">
+                            <li>Chicken Curry</li>
+                            <li>Porkchop</li>
+                            <li>Carbonara &#9733;</li>
+                            <li>Samgyupsal</li>
+                            <li>Gimbap</li>
+                        </ul>
+                    </div>
+
+                    <div style="width: 48%;">
+                        <h3 style="font-size: 25px; color: #333;"> Other Pastime</h3>
+                        <ul style="list-style-type: none; padding-left: 20; font-size: 20px">
+                            <li>Reading &#9733;</li>
+                            <li>Diamond Painting</li>
+                            <li>Cleaning</li>
+                            <li>Listening to Music</li>
+                            <li>Watching Variety Shows</li>
+                        </ul>
+                    </div>
+                </div>
+                <br>
+    
+                <h3 style="font-size: 25px; color: #333;">Games</h3>
+                <ul style="list-style-type: none; padding-left: 20; font-size: 20px">
+                    <li>Genshin Impact &#9733;</li>
+                    <li>Wuthering Waves</li>
+                    <li>Roblox</li>
+                    <li>Minecraft</li>
+                    <li>Block Blast</li>
+                </ul>
+                <br>
+
+                <h3 style="font-size: 25px; color:#333;">Kdrama</h3>
+                <ul style="list-style-type: none; padding-left: 20; font-size: 20px">
+                    <li>Scarlet Heart &#9733;</li>
+                    <li>Goblin</li>
+                    <li>Hotel Del Luna</li>
+                    <li>Happiness</li>
+                    <li>Youth of May</li>
+                </ul>
+                <br>
+
+                <h3 style="font-size: 25px; color:#333;">Anime</h3>
+                <ul style="list-style-type: none; padding-left: 20; font-size: 20px">
+                    <li>The Spy x Family &#9733;</li>
+                    <li>Demon Slayer</li>
+                    <li>Violet Evergarden</li>
+                    <li>Spirited Away</li>
+                    <li>Hotarubi no Mori e</li>
+                </ul>
+            </section>
+        </div>
+    </div>
+
+    <!-- Gallery -->
+    <div style="width: 79%; margin: 20px auto; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+        <h2 style="font-size: 32px; color: #333;">Gallery</h2>
+        <div>
+            <h3 style="font-size: 28px; color: #333;">Me</h3>
+            <div style="display: flex; gap: 50px; justify-content: flex-start;">
+                <img src="img/nicolle1.jpg" alt="Gallery - Me" style="width: 15%; border-radius: 8px;">
+                <img src="img/nicolle2.jpeg" alt="Gallery - Me" style="width: 12%; border-radius: 8px;">
+                <img src="img/nicolle3.jpg" alt="Gallery - Me" style="width: 12%; border-radius: 8px;">
+                <img src="img/nicolle4.jpg" alt="Gallery - Me" style="width: 12%; border-radius: 8px;">
+                <img src="img/nicolle5.jpg" alt="Gallery - Me" style="width: 13%; border-radius: 8px;">
+                <img src="img/nicolle7.jpg" alt="Gallery - Me" style="width: 13%; border-radius: 8px;">
+            </div>
+            <br><br>
+
+            <h3 style="font-size: 28px; color: #333;">Family</h3>
+            <div style="display: flex; gap: 50px; justify-content: flex-start;">
+                <img src="img/fam1.jpg" alt="Gallery - Family" style="width: 30%; border-radius: 8px;">
+                <img src="img/fam2.jpg" alt="Gallery - Family" style="width: 30%; border-radius: 8px;">
+                <img src="img/fam5.jpeg" alt="Gallery - Family" style="width: 30%; border-radius: 8px; align-self: center;">
+            </div>
+            <div style="display: flex; gap: 50px; justify-content: flex-start; margin-top: 30px;">
+                <img src="img/fam3.jpg" alt="Gallery - Family" style="width: 20%; border-radius: 8px;">
+                <img src="img/fam4.jpg" alt="Gallery - Family" style="width: 20%; border-radius: 8px;">
+                <img src="img/fam6.jpg" alt="Gallery - Family" style="width: 20%; border-radius: 8px;">
+                <img src="img/fam7.jpg" alt="Gallery - Family" style="width: 20%; border-radius: 8px;">
+            </div>
+            <br><br>
+
+            <h3 style="font-size: 28px; color: #333;">Friends</h3>
+            <div style="display: flex; gap: 50px; justify-content: flex-start;">
+                <img src="img/friends1.jpg" alt="Gallery - Friends" style="width: 25%; border-radius: 8px;">
+                <img src="img/friends2.jpg" alt="Gallery - Friends" style="width: 25%; border-radius: 8px;">
+                <img src="img/friends3.jpg" alt="Gallery - Friends" style="width: 25%; border-radius: 8px;">
+            </div>
+            <div style="display: flex; gap: 50px; justify-content: flex-start; margin-top: 30px;">
+                <img src="img/friends4.jpg" alt="Gallery - Friends" style="width: 15%; border-radius: 8px;">
+                <img src="img/friends5.jpg" alt="Gallery - Friends" style="width: 15%; border-radius: 8px;">
+                <img src="img/friends6.jpg" alt="Gallery - Friends" style="width: 15%; border-radius: 8px;">
+                <img src="img/friends7.jpg" alt="Gallery - Friends" style="width: 15%; border-radius: 8px;">
+                <img src="img/friends8.jpg" alt="Gallery - Friends" style="width: 15%; border-radius: 8px;">
+            </div>
+        </div>
+    </div>
+
+    <!-- Contact Information -->
+    <div style="width: 79%; margin: 20px auto; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+        <h2 style="font-size: 32px; color: #333;">Contact Information</h2>
+        <div style="display: flex; justify-content: center; align-items: center; gap: 50px; font-size: 25px; flex-wrap: wrap;">
+            <a href="https://www.facebook.com/nicolle.capile.96" target="_blank" style="text-decoration: none; color: #1877F2; display: flex; align-items: center; gap: 15px;">
+                <i class="fa-brands fa-facebook" style="font-size: 70px;"></i>
+                <span style="font-size: 30px; line-height: 70px;">Nicolle Capile</span>
+            </a>
+
+            <a href="https://www.instagram.com/niiiccs_" target="_blank" style="text-decoration: none; color: #C13584; display: flex; align-items: center; gap: 15px;">
+                <i class="fa-brands fa-square-instagram" style="font-size: 70px;"></i>
+                <span style="font-size: 35px; line-height: 70px;">@niiiccs_</span>
+            </a>
+
+            <a href="mailto:nicollecapile06@gmail.com" style="text-decoration: none; color: #EA4335; display: flex; align-items: center; gap: 15px;">
+                <i class="fa-solid fa-envelope" style="font-size: 70px;"></i>
+                <span style="font-size: 35px; line-height: 70px;">nicollecapile06@gmail.com</span>
+            </a>
+        </div>
+    </div>
+</body>
+</html>
